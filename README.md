@@ -24,8 +24,7 @@ This repository aims to provide detailed lecture notes, applied case studies, an
 To clone and explore this repository locally:
 
 ```bash
-git clone https://github.com/rbyzk/machinelearning.git
-cd machinelearning
+git clone https://github.com/rbyzk/MachineLearning.git
   ```
 
 Explore the folders and notebooks for statistical walkthroughs. Each file is annotated with explanations and instructions.
