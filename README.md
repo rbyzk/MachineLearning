@@ -24,8 +24,7 @@ This repository aims to provide detailed lecture notes, applied case studies, an
 To clone and explore this repository locally:
 
 ```bash
-git clone https://github.com/rbyzk/machinelearning.git
-cd machinelearning
+git clone https://github.com/rbyzk/MachineLearning.git
   ```
 
 Explore the folders and notebooks for statistical walkthroughs. Each file is annotated with explanations and instructions.
@@ -35,7 +34,7 @@ Contributions are welcome! If you'd like to add tutorials, fix typos, or share u
 
 
 ## 👩‍💻 About Me
-Hi, I'm Beyza Küçük, passionate about statistics, data science, and turning data into meaningful insights. I create content that makes complex concepts more accessible for learners at all levels.
+I'm Beyza Küçük — a Data Scientist & Data Analyst, passionate about building ML/DL solutions that are interpretable, effective, and impactful.
 
 
 ## 🌐 Let's connect and grow together in data:
